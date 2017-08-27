@@ -17,8 +17,8 @@ public class RegistryHandler {
         //ModTools.register();
         // ModArmor.register();
         // ModBlocks.registerRenders();
-        //RecipeHandler.registerCrafting();
-        // RecipeHandler.registerSmelting();
+        RecipeHandler.registerCrafting();
+        RecipeHandler.registerSmelting();
 
     }
 
